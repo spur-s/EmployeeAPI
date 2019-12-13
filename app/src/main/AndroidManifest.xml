@@ -14,8 +14,8 @@
         android:usesCleartextTraffic="true">
         <activity android:name=".MainActivity"></activity>
         <activity android:name=".UpdateDelete" />
-        <activity android:name=".Register" />
-        <activity android:name=".SearchActivity">
+        <activity android:name=".SearchActivity" />
+        <activity android:name=".Register">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
